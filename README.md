@@ -10,10 +10,10 @@ Be well.
 
 Peace out!
 
-[![Unicorns and Coffee Twitter Link][1.image]][1.link]
-[![Unicorns and Coffee LinkedIn Link][2.image]][2.link]
-[![Unicorns and Coffee Instagram Link][3.image]][3.link]
-[![Unicorns and Coffee Facebook Link][4.image]][4.link]
+[![Unicorns and Coffee Twitter Link][1.image]][1.link] &nbsp; &nbsp;
+[![Unicorns and Coffee LinkedIn Link][2.image]][2.link] &nbsp; &nbsp;
+[![Unicorns and Coffee Instagram Link][3.image]][3.link] &nbsp; &nbsp;
+[![Unicorns and Coffee Facebook Link][4.image]][4.link] &nbsp; &nbsp;
 
 
 [1.image]: https://res.cloudinary.com/carriepresley/image/upload/c_scale,w_24/v1611433805/GitHub%20ReadMe/twitter_afinqs.png
